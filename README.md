@@ -1,6 +1,6 @@
 # VHDL Processor
 
-Done by Diogo Valdivieso Damasio Da Costa & Théo Houle,
+Done by Alexis Favre & Augustin Allard
 
 
 Implemented basic CPU (not pipelined) to be programmed on FPGA board. 
